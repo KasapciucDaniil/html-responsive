@@ -1,7 +1,6 @@
 body {
   font-family: 'Montserrat', sans-serif;
   min-width: 320px;
-  max-width: 1170px;
   color: #1d1d1d;
 }
 
@@ -334,7 +333,8 @@ h4 {
 @media only screen and (max-width : 992px) {
   .lets-page {
     background-color: rgba(0,0,0, .3);
-    padding: 10px 0;
+    padding-top: 10px;
+    width: 90%;
   }
 }
 
