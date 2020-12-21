@@ -350,6 +350,18 @@ h4 {
 
 
 /* ==================section-design=================== */
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.video-media {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 
 .section-design h3,
 .section-design h4{
